@@ -1,6 +1,9 @@
 Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
 # DATE:11-02-2026
 
+Name : Mahalakshmi J
+Reg No : 25008001
+
 Experiment: Develop a comprehensive report for the following exercises:
 
   1. Explain the foundational concepts of Generative AI, Generative Model and it's types.
